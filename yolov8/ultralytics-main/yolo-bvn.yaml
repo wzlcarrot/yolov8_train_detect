@@ -1,0 +1,8 @@
+path: /home/wzlcarrot/project/yolov8/ultralytics-main/datasets/bvn
+train: images/train
+val: images/val
+test:
+
+names:
+  0: daitu
+  1: mingren
